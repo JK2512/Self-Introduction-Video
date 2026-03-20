@@ -3,7 +3,8 @@ PLA1006 IA1 | Self Introduction Video | Jiya(Slot C13)
 # PLA1006 - Internal Assessment 1
 
 ## 👤 Student Details
-- *Name:* Jiya 
+- *Name:* Jiya
+- *Registration No:* 23BCE11153
 - *Slot:* C13 
 
 ## 🎥 Self Introduction Video
